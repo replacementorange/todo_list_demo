@@ -1,6 +1,6 @@
 # todo_list_demo
 
-## Simple todo list demo made with Flask
+## Simple todo list demo made with Flask, SQLite and SQLAlchemy
 
 ![alt text](/pictures/taskmanager_empty.png)
 *Picture 1, Start view.*
